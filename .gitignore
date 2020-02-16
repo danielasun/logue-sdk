@@ -55,3 +55,6 @@ tools/emscripten/emsdk
 *.dSYM/
 *.su
 
+# don't store the logue-cli
+*logue-cli
+tools/logue-cli
